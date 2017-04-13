@@ -30,7 +30,12 @@ airspeed, air cost, road speed, road cost, Graph with connection distances(weigh
 Outputs:
 No of airports, Airport placements: Array of nodes, where airports are placed.
 
-Runnning the programs:
+________________________________________________________________
+Runnning the program:
+
+The Graph described in 'graph.jpg' is the base graph used for this implementation.
+(The program works irrespective of this, if you change the graph, straightline_distances array values, 
+and change the n value for number of nodes.)
 
 the 'Project_spring.ipynb' as a normal python program.
 The 'Assignment A-star.ipynb' is the A star Implementation, prior to getting the idea for using it as airport distribution.
