@@ -6,8 +6,9 @@ Python - Jupiter Notebooks Interface
 Keertan Dakarapu
 kxd160830
 University of Texas at Dallas
-
 */
+
+Note: Find the Project report for deeper understanding.
 
 Project Based on: Project concept is based on A-Star Algorithm implementation.
 
@@ -31,7 +32,7 @@ Outputs:
 No of airports, Airport placements: Array of nodes, where airports are placed.
 
 ________________________________________________________________
-Runnning the program:
+Running the program:
 
 The Graph described in 'graph.jpg' is the base graph used for this implementation.
 (The program works irrespective of this, if you change the graph, straightline_distances array values, 
